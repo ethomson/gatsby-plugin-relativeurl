@@ -1,7 +1,7 @@
 {
-  "name": "gatsby-plugin-ipfs",
-  "description": "Adds support for deploying Gatsby to IPFS by ensuring that assets are relative",
-  "version": "2.0.2",
+  "name": "gatsby-plugin-relativeurl",
+  "description": "Updates Gatsby URLs to be relative",
+  "version": "2.1.0",
   "keywords": [
     "gatsby",
     "gatsby-plugin",
@@ -9,11 +9,11 @@
     "ipns",
     "relative"
   ],
-  "author": "André Cruz <andre@moxy.studio>",
-  "homepage": "https://github.com/moxystudio/gatsby-pljugin-ipfs",
+  "author": "Edward Thomson <ethomson@edwardthomson.com>",
+  "homepage": "https://github.com/ethomson/gatsby-plugin-relativeurl",
   "repository": {
     "type": "git",
-    "url": "git@github.com:moxystudio/gatsby-plugin-ipfs.git"
+    "url": "git@github.com:ethomson/gatsby-plugin-relativeurl.git"
   },
   "license": "MIT",
   "files": [
