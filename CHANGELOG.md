@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="2.1.0"></a>
+## [2.1.0](https://github.com/ethomson/gatsby-plugin-relativeurl/compare/v2.1.0...176c5348be62ee1c2cb23b1d8fe3b1968d9aa28b) (2020-10-13)
+
+Forked from [gatsby-plugin-ipfs](https://github.com/moxystudio/gatsby-plugin-ipfs) at version 2.0.2.
+
+### Changes
+
+* The replacement token is now `__GATSBY_RELATIVEURL_PATH_PREFIX__`.
+* URLs are rewritten to add `index.html` on directory paths.
+
 <a name="2.0.2"></a>
 ## [2.0.2](https://github.com/moxystudio/gatsby-plugin-ipfs/compare/v2.0.1...v2.0.2) (2018-11-06)
 
